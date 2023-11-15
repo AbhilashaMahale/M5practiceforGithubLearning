@@ -6,7 +6,7 @@ public class Practice1 {
 
 
 		
-		System.out.println("My new commit Welcome to Github Learning abhilasha, Enjoy");
+		System.out.println("My new commit  goes to Welcome to Github Learning abhilasha, Enjoy");
 		int a = 5;
 		int b = 10;
 		
